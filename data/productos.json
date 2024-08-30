@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "nombre": "Peluche Pikachu",
+        "precio": 25.00,
+        "descripcion": "Peluche de 20 cm.",
+        "imagen": "../img/prod_001.jpg",
+        "cantidadDisponible": 10
+    },
+    {
+        "id": 2,
+        "nombre": "Taza Charmander",
+        "precio": 15.00,
+        "descripcion": "Taza con diseño.",
+        "imagen": "../img/prod_002.jpg",
+        "cantidadDisponible": 20
+    },
+    {
+        "id": 3,
+        "nombre": "Camiseta Bulbasaur",
+        "precio": 20.00,
+        "descripcion": "Talla M.",
+        "imagen": "../img/prod_003.jpg",
+        "cantidadDisponible": 15
+    },
+    {
+        "id": 4,
+        "nombre": "Gorra Pokémon",
+        "precio": 18.00,
+        "descripcion": "Gorra negra.",
+        "imagen": "../img/prod_004.jpg",
+        "cantidadDisponible": 12
+    },
+    {
+        "id": 5,
+        "nombre": "Mochila Snorlax",
+        "precio": 30.00,
+        "descripcion": "Mochila 40 cm.",
+        "imagen": "../img/prod_005.jpg",
+        "cantidadDisponible": 8
+    },
+    {
+        "id": 6,
+        "nombre": "Llaveros Eevee",
+        "precio": 8.00,
+        "descripcion": "Set de 3.",
+        "imagen": "../img/prod_006.jpg",
+        "cantidadDisponible": 25
+    },
+    {
+        "id": 7,
+        "nombre": "Póster Mewtwo",
+        "precio": 10.00,
+        "descripcion": "Tamaño A3.",
+        "imagen": "../img/prod_007.jpg",
+        "cantidadDisponible": 30
+    },
+    {
+        "id": 8,
+        "nombre": "Taza Pikachu",
+        "precio": 15.00,
+        "descripcion": "Taza amarilla.",
+        "imagen": "../img/prod_008.jpg",
+        "cantidadDisponible": 20
+    },
+    {
+        "id": 9,
+        "nombre": "Funda Jigglypuff",
+        "precio": 12.00,
+        "descripcion": "Funda móvil.",
+        "imagen": "../img/prod_009.jpg",
+        "cantidadDisponible": 18
+    },
+    {
+        "id": 10,
+        "nombre": "Peluche Eevee",
+        "precio": 22.00,
+        "descripcion": "Peluche de 25 cm.",
+        "imagen": "../img/prod_010.jpg",
+        "cantidadDisponible": 10
+    },
+    {
+        "id": 11,
+        "nombre": "Taza Squirtle",
+        "precio": 15.00,
+        "descripcion": "Taza azul.",
+        "imagen": "../img/prod_011.jpg",
+        "cantidadDisponible": 20
+    },
+    {
+        "id": 12,
+        "nombre": "Camiseta Pikachu",
+        "precio": 20.00,
+        "descripcion": "Talla L.",
+        "imagen": "../img/prod_012.jpg",
+        "cantidadDisponible": 15
+    },
+    {
+        "id": 13,
+        "nombre": "Gorra Ash",
+        "precio": 18.00,
+        "descripcion": "Gorra roja.",
+        "imagen": "../img/prod_013.jpg",
+        "cantidadDisponible": 12
+    },
+    {
+        "id": 14,
+        "nombre": "Mochila Pikachu",
+        "precio": 30.00,
+        "descripcion": "Mochila 45 cm.",
+        "imagen": "../img/prod_014.jpg",
+        "cantidadDisponible": 8
+    },
+    {
+        "id": 15,
+        "nombre": "Llaveros Pokémon",
+        "precio": 2.00,
+        "descripcion": "Set de 5.",
+        "imagen": "../img/prod_015.jpg",
+        "cantidadDisponible": 25
+    },
+    {
+        "id": 16,
+        "nombre": "Póster Pikachu",
+        "precio": 10.00,
+        "descripcion": "Tamaño A2.",
+        "imagen": "../img/prod_016.jpg",
+        "cantidadDisponible": 30
+    },
+    {
+        "id": 17,
+        "nombre": "Taza Eevee",
+        "precio": 15.00,
+        "descripcion": "Taza marrón.",
+        "imagen": "../img/prod_017.jpg",
+        "cantidadDisponible": 20
+    },
+    {
+        "id": 18,
+        "nombre": "Funda Pikachu",
+        "precio": 12.00,
+        "descripcion": "Funda móvil.",
+        "imagen": "../img/prod_018.jpg",
+        "cantidadDisponible": 18
+    }
+]
